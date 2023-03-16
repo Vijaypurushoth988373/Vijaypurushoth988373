@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaypurushoth988373&label=Profile%20views&color=0e75b6&style=flat" alt="vijaypurushoth988373" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaypurushoth988373" alt="vijaypurushoth988373" /></a> </p>
+
 - 🌱 I’m currently learning **Artificial Intelligence and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vijaypurushoth988373?tab=repositories](https://github.com/Vijaypurushoth988373?tab=repositories)
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **vijaypurushothaman988373@gmail.com**
 
-- 📄 Know about my experiences in Data Science
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Hu7luZDtUky3IUOWJmCGlstgOl6ezaSj/view?usp=share_link](https://drive.google.com/file/d/1Hu7luZDtUky3IUOWJmCGlstgOl6ezaSj/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
