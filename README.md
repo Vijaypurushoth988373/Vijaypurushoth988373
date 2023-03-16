@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vijaypurushothaman988373@gmail.com**
 
-- 📄 Know about my experiences [Data Science](Data Science)
+- 📄 Know about my experiences Data Science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
